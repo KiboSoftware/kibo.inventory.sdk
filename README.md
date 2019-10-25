@@ -98,7 +98,7 @@ Please follow the [installation](#installation) instruction and execute the foll
 
 ```javascript
 
-var Inventory = require('kibo-sdk-inventory');
+var Inventory = require('kibo-inventory-sdk');
 
 var inventoryApiClient = Inventory.ApiClient.instance;
 
